@@ -7,10 +7,10 @@
 <h3 align="center">INDEX</h3>
 
 <p align="center">
-  <a href="About">About the Project</a> |
-  <a href="tecnologies">Technologies Implemented</a> |
-  <a href="Progress">Progress</a> |
-  <a href="author">Author</a> |
+  <a href="##About">About the Project</a> |
+  <a href="##Tecnologies">Technologies Implemented</a> |
+  <a href="##Progress">Progress</a> |
+  <a href="##">Author</a> |
 </p>
 
 ## About
@@ -22,7 +22,7 @@
 - Data visualization of top incomes/expenses;
 - Total extract of incomes/expenses of the period, and more;
 
-## Technologies
+## Tecnologies
 
 <p><img align="center" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> <b>Python</b>: Main language of the project</p>
 
